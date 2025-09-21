@@ -1,0 +1,35 @@
+{
+    "spec": 1,
+    "name": "Zen Old Mincho + Kaku Gothic New",
+    "previewText": "Zen Old Mincho is a classical Japanese serif font by Yoshimichi Ohira. Zen Kaku Gothic New is an accompanying Japanese sans-serif font. Most text will be in Zen Old Mincho, while Italic text will be in Zen Kaku Gothic.",
+    "main": {
+      "ggsans-Normal": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Regular.ttf",
+      "NotoSans-Normal": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Regular.ttf",
+
+      "ggsans-NormalItalic": "https://github.com/googlefonts/zen-kakugothic/raw/refs/heads/main/fonts/ttf/ZenKakuGothicNew-Light.ttf",
+      "NotoSans-NormalItalic": "https://github.com/googlefonts/zen-kakugothic/raw/refs/heads/main/fonts/ttf/ZenKakuGothicNew-Light.ttf",
+
+      "ggsans-Medium": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Medium.ttf",
+      "NotoSans-Medium": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Medium.ttf",
+      
+      "ggsans-MediumItalic": "https://github.com/googlefonts/zen-kakugothic/raw/refs/heads/main/fonts/ttf/ZenKakuGothicNew-Regular.ttf",
+      
+      "ggsans-Semibold": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-SemiBold.ttf",
+      "NotoSans-Semibold": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-SemiBold.ttf",
+      
+      "ggsans-SemiboldItalic": "https://github.com/googlefonts/zen-kakugothic/raw/refs/heads/main/fonts/ttf/ZenKakuGothicNew-Medium.ttf",
+      
+      "ggsans-Bold": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Bold.ttf",
+      "NotoSans-Bold": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Bold.ttf",
+      
+      "ggsans-BoldItalic": "https://github.com/googlefonts/zen-kakugothic/raw/refs/heads/main/fonts/ttf/ZenKakuGothicNew-Bold.ttf",
+      
+      "ABCGintoNord-ExtraBold": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Black.ttf",
+      "ggsans-ExtraBold": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Black.ttf",
+      "NotoSans-ExtraBold": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Black.ttf",
+      
+      "ggsans-ExtraBoldItalic": "https://github.com/googlefonts/zen-kakugothic/raw/refs/heads/main/fonts/ttf/ZenKakuGothicNew-Black.ttf",
+      
+      "SourceCodePro-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Mono/Semibold.otf?raw=1"
+    }
+}
