@@ -4,7 +4,9 @@
     "previewText": "PlemolJP is a Japanese code font combining IBM Plex Mono and Sans JP.",
     "main": {
       "ggsans-Normal":          "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Regular.ttf",
-      "NotoSans-Normal":        "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Regular.ttf,      "ggsans-NormalItalic":    "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Italic.ttf",
+      "NotoSans-Normal":        "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Regular.ttf",
+
+      "ggsans-NormalItalic":    "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Italic.ttf",
       "NotoSans-NormalItalic":  "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Italic.ttf",
 
       "ggsans-Medium":          "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Medium.ttf",
@@ -28,6 +30,6 @@
       
       "ggsans-ExtraBoldItalic": "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-BoldItalic.ttf",
       
-      "SourceCodePro-Semibold": "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Regular.ttf",
+      "SourceCodePro-Semibold": "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Regular.ttf"
     }
 }
