@@ -3,30 +3,30 @@
     "name": "BIZ UDP Mincho & Gothic",
     "previewText": "BIZ UDP Mincho and Gothic are “Universal Design” fonts by the Morisawa foundry, intended for legibility at small sizes. Most text will be in Mincho, while italic text will be in Gothic.",
     "main": {
-      "ggsans-Normal":          "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
-      "NotoSans-Normal":        "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
+      "ggsans-Normal":          "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
+      "NotoSans-Normal":        "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
 
       "ggsans-NormalItalic":    "https://github.com/googlefonts/morisawa-biz-ud-gothic/raw/refs/heads/main/fonts/ttf/BIZUDPGothic-Regular.ttf",
       "NotoSans-NormalItalic":  "https://github.com/googlefonts/morisawa-biz-ud-gothic/raw/refs/heads/main/fonts/ttf/BIZUDPGothic-Regular.ttf",
 
-      "ggsans-Medium":          "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
-      "NotoSans-Medium":        "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
+      "ggsans-Medium":          "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
+      "NotoSans-Medium":        "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
       
       "ggsans-MediumItalic":    "https://github.com/googlefonts/morisawa-biz-ud-gothic/raw/refs/heads/main/fonts/ttf/BIZUDPGothic-Regular.ttf",
       
-      "ggsans-Semibold":        "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
-      "NotoSans-Semibold":      "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
+      "ggsans-Semibold":        "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
+      "NotoSans-Semibold":      "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
       
       "ggsans-SemiboldItalic":  "https://github.com/googlefonts/morisawa-biz-ud-gothic/raw/refs/heads/main/fonts/ttf/BIZUDPGothic-Bold.ttf",
       
-      "ggsans-Bold":            "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
-      "NotoSans-Bold":          "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
+      "ggsans-Bold":            "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
+      "NotoSans-Bold":          "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
       
       "ggsans-BoldItalic":      "https://github.com/googlefonts/morisawa-biz-ud-gothic/raw/refs/heads/main/fonts/ttf/BIZUDPGothic-Bold.ttf",
       
-      "ABCGintoNord-ExtraBold": "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
-      "ggsans-ExtraBold":       "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
-      "NotoSans-ExtraBold":     "https://github.com/googlefonts/morisawa-biz-ud-mincho/blob/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
+      "ABCGintoNord-ExtraBold": "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
+      "ggsans-ExtraBold":       "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
+      "NotoSans-ExtraBold":     "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Bold.ttf",
       
       "ggsans-ExtraBoldItalic": "https://github.com/googlefonts/morisawa-biz-ud-gothic/raw/refs/heads/main/fonts/ttf/BIZUDPGothic-Bold.ttf",
       
