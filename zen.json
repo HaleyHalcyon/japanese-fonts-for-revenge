@@ -1,6 +1,6 @@
 {
     "spec": 1,
-    "name": "Zen Old Mincho + Kaku Gothic New",
+    "name": "Zen",
     "previewText": "Zen Old Mincho is a classical Japanese serif font by Yoshimichi Ohira. Zen Kaku Gothic New is an accompanying Japanese sans-serif font. Most text will be in Zen Old Mincho, while Italic text will be in Zen Kaku Gothic.",
     "main": {
       "ggsans-Normal": "https://github.com/googlefonts/zen-oldmincho/raw/refs/heads/main/fonts/ttf/ZenOldMincho-Regular.ttf",
@@ -30,6 +30,6 @@
       
       "ggsans-ExtraBoldItalic": "https://github.com/googlefonts/zen-kakugothic/raw/refs/heads/main/fonts/ttf/ZenKakuGothicNew-Black.ttf",
       
-      "SourceCodePro-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Mono/Semibold.otf?raw=1"
+      "SourceCodePro-Semibold": "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Medium.ttf"
     }
 }

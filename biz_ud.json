@@ -1,6 +1,6 @@
 {
     "spec": 1,
-    "name": "BIZ UDP Mincho & Gothic",
+    "name": "BIZ UDP",
     "previewText": "BIZ UDP Mincho and Gothic are “Universal Design” fonts by the Morisawa foundry, intended for legibility at small sizes. Most text will be in Mincho, while italic text will be in Gothic.",
     "main": {
       "ggsans-Normal":          "https://github.com/googlefonts/morisawa-biz-ud-mincho/raw/refs/heads/main/fonts/ttf/BIZUDPMincho-Regular.ttf",
@@ -30,6 +30,6 @@
       
       "ggsans-ExtraBoldItalic": "https://github.com/googlefonts/morisawa-biz-ud-gothic/raw/refs/heads/main/fonts/ttf/BIZUDPGothic-Bold.ttf",
       
-      "SourceCodePro-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Mono/Semibold.otf?raw=1"
+      "SourceCodePro-Semibold": "https://github.com/HaleyHalcyon/japanese-fonts-for-revenge/raw/refs/heads/main/PlemolJPConsoleHS-Medium.ttf"
     }
 }
