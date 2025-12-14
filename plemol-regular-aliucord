@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "Haley Halcyon",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/haleyhalcyon\/japanese-fonts-for-revenge\/main\/plemol-regular-aliucord.json",
+        "license": "MIT",
+        "name": "Plemol Regular"
+    },
+    "background": {},
+    "fonts": {
+        "whitney_bold": "https:\/\/github.com\/HaleyHalcyon\/japanese-fonts-for-revenge\/raw\/main\/PlemolJPConsoleHS\/Bold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/HaleyHalcyon\/japanese-fonts-for-revenge\/raw\/main\/PlemolJPConsoleHS\/SemiBold.ttf",
+        "whitney_medium": "https:\/\/github.com\/HaleyHalcyon\/japanese-fonts-for-revenge\/raw\/main\/PlemolJPConsoleHS\/Regular.ttf",
+        "ginto_regular": "https:\/\/github.com\/HaleyHalcyon\/japanese-fonts-for-revenge\/raw\/main\/PlemolJPConsoleHS\/Regular.ttf",
+        "ginto_medium": "https:\/\/github.com\/HaleyHalcyon\/japanese-fonts-for-revenge\/raw\/main\/PlemolJPConsoleHS\/SemiBold.ttf",
+        "ginto_bold": "https:\/\/github.com\/HaleyHalcyon\/japanese-fonts-for-revenge\/raw\/main\/PlemolJPConsoleHS\/Bold.ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/HaleyHalcyon\/japanese-fonts-for-revenge\/raw\/main\/PlemolJPConsoleHS\/Regular.ttf"
+    },
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
